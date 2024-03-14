@@ -1,0 +1,32 @@
+Revisión del Guión para la Interacción con IA en Vitalink
+
+Escena de Interacción con IA (Revisada):
+
+Contexto:
+Después de explorar las funcionalidades de Vitalink, la atención se centra en la Mamá Ocupada, quien ahora necesita asistencia para completar su compra. Ella está en su sala de estar, con su bebé finalmente dormido en una cuna cercana, reflejando un momento de tranquilidad para enfocarse en sus necesidades.
+
+Inicio de la Interacción con IA:
+
+	•	La pantalla de su dispositivo móvil ilumina suavemente la habitación. Con un leve toque, activa la función de asistencia por voz de Vitalink. La animación muestra una onda sonora amigable que representa la IA, indicando que está lista para escuchar.
+
+Diálogo con IA:
+
+	•	Mamá Ocupada: “Necesito agregar a mi carrito el jarabe para la tos que me recomendó el doctor y también pañales talla 4, por favor.”
+	•	IA de Vitalink (voz suave y servicial): “Por supuesto, agregando jarabe para la tos y pañales talla 4 a tu carrito. ¿Hay algo más en lo que pueda asistirte hoy?”
+
+Automatización del Proceso de Compra:
+
+	•	A medida que la mamá habla, la animación muestra cómo los productos seleccionados flotan suavemente hacia un carrito de compras virtual, simbolizando la facilidad y eficiencia del proceso. La acción es fluida y sin esfuerzo, resaltando la avanzada tecnología de reconocimiento de voz de Vitalink.
+
+Finalización de la Compra:
+
+	•	Mamá Ocupada: “Eso es todo, gracias.”
+	•	IA de Vitalink: “Perfecto. Tu total es de X pesos. ¿Deseas proceder al pago y organizar el despacho a domicilio ahora?”
+	•	Con una afirmación de la mamá, la animación muestra un botón de “Pagar Ahora” que se presiona por sí solo, seguido de una pequeña animación de un paquete que se envía desde una farmacia virtual hasta la casa de la mamá, representando la rapidez del servicio de despacho.
+
+Cierre de la Interacción con IA:
+
+	•	La pantalla muestra un mensaje de confirmación del pedido, con la IA despidiéndose amablemente: “Tu pedido ha sido realizado con éxito y está en camino. Gracias por usar Vitalink. ¡Estamos aquí para ayudarte siempre que nos necesites!”
+	•	La Mamá Ocupada sonríe, claramente aliviada y satisfecha con la eficiencia y simplicidad del servicio, mientras la pantalla se desvanece para enfocarse en el logo de Vitalink, reforzando la marca como sinónimo de comodidad y cuidado.
+
+Esta revisión del guión pone especial énfasis en la interacción por voz con la IA de Vitalink, demostrando cómo la tecnología puede facilitar la vida de los usuarios, automatizando tareas y ofreciendo soluciones rápidas a sus necesidades de salud y bienestar.
